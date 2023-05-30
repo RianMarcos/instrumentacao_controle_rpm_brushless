@@ -1,0 +1,1 @@
+Nesta etapa o valor de PWM será regulado via entrada do teclado, valores de RPM e PWM estão sendo impressos, onde pode ser visualizado o gráfico do mesmo no SerialPlot

@@ -1,0 +1,1 @@
+Nesta etapa o valor de PWM será regulado via potenciômetro
